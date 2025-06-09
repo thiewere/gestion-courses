@@ -1,4 +1,5 @@
 body, html {
+    position: relative;
     padding: 0;
     margin: 0;
     background-color: #f0e9e9;
@@ -196,4 +197,10 @@ article .description {
 
 .input {
     padding: 2px;
+}
+
+.btn-contact {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
 }
